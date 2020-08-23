@@ -1,0 +1,19 @@
+{
+  "name": "working-with-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "up1",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "jest": "^26.4.2",
+    "nock": "^13.0.4"
+  }
+}
